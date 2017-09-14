@@ -94,3 +94,8 @@ for x in range(0, lngth):
     elif (c == "0"):
         print("----- | 0\n")
 print("CREATED BY SAHIL SONI")
+
+print("#.#\n")
+print("###\n")
+print("#.#")
+      
